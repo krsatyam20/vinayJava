@@ -1,0 +1,48 @@
+<html>
+<head>
+<!-- add CDN(centeral data network -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js" ></script>
+
+
+<script>
+//$/jQuery("tagName/#idName/.className").value/click
+
+
+/*function hide(){
+
+ document.getElementById("pone").style="display:none";
+}
+*/
+
+$(document).ready(function(){
+
+	$("button").click(function(){ 
+
+	$("#pone").hide();
+
+	});
+
+	$("p").click(function(){ 
+
+	$(this).hide();
+	});
+
+
+});
+
+
+
+</script>
+
+</head>
+<body>
+<p id="pone">hello</p>
+<button>  Click </button>
+<p>Hello Student good morning 1 </p>
+<p>Hello Student good morning 2</p>
+<p>Hello Student good morning 3</p>
+<p>Hello Student good morning 4</p>
+<p>Hello Student good morning 5</p>
+</body>
+
+</html>
