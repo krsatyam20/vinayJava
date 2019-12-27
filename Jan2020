@@ -1,0 +1,29 @@
+J2SE - Java to Standard Edition (Core Java)
+J2EE - Java to Enterprise Edition (Advanced Java)
+J2ME - Java to Micro Edition
+
+Among these three
+
+	J2SE is used for Stand alone applications, it is also known as core Java. The editor used for J2SE is Eclipse
+
+J2SE concepts :
+
+	OOP’s concepts (Inheritance, Abstraction, Interface, Polymorphism, Encapsulation)
+	
+	File Handling
+	Thread
+	Exception
+	Arryas
+	Collections
+
+J2EE is used for Enterprise applications ( used in IT industry) such as authentication using login and many more web applications, it is also known as Advanced Java. The editor used for J2EE is Eclipse
+
+J2EE concepts :
+
+	JDBC (Java Data Base Connection)
+	Servlet concepts
+	JSP (Java Server Pages)
+	Java API (Java Application Program Interface)
+	Frameworks (Hibernate, Spring etc…)
+
+J2ME is used for Mobile application development for creating apps. The editor used for J2ME is Android Studio
